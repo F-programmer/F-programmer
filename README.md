@@ -2,7 +2,14 @@
 
 ##### My name is Flávio, I am a student at ETEC de Cidade Tiradentes.
 
-<ul><li>a</li><li>a</li><li>a</li><li>a</li></ul>
+<h6>My favorite hobbies are: </h6>
+<ul>
+  <li>Read a book :green_book:</li>
+  <li>Drink coffee :coffee:</li>
+  <li>Listen to good songs :notes:</li>
+  <li>Play videogame :video_game:</li>
+  <li>And program :computer:</li>
+</ul>
 
 <!--
 **F-programmer/F-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
