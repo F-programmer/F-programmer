@@ -1,4 +1,4 @@
-### Olá!
+<h3 style='color: green'>Hello World! </h3>
 
 ##### My name is Flávio, I am a student at ETEC de Cidade Tiradentes.
 
@@ -10,6 +10,8 @@
   <li>Play videogame :video_game:</li>
   <li>And program :computer:</li>
 </ul>
+
+<h6><strong>Technologies that I know</strong></h6>
 
 <!--
 **F-programmer/F-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
