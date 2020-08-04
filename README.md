@@ -25,16 +25,6 @@
   <li>PHP</li>
 </ul>
 
-<center>
-  <a href="https://twitter.com/Flavleo_">
-    <img src="https://img.shields.io/twitter/url?label=Flavleo_&style=social&url=https%3A%2F%2Ftwitter.com%2FFlavleo_" alt="Twitter">
-  </a>
-</center>
-
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:flaviovhtorres@gmail.com)
-![](https://img.shields.io/twitter/url?label=Flavleo_&style=social&url=https%3A%2F%2Ftwitter.com%2FFlavleo_)
-
-
 <!--
 **F-programmer/F-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
