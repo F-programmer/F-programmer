@@ -1,7 +1,8 @@
 ### Olá!
 
 ##### My name is Flávio, I am a student at ETEC de Cidade Tiradentes.
- a <br> b
+
+<ul><li>a</li><li>a</li><li>a</li><li>a</li></ul>
 
 <!--
 **F-programmer/F-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
