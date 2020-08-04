@@ -1,4 +1,4 @@
-<h3 style='color: green'>Hello World! </h3>
+<h3>Hello World! 👋</h3>
 
 #### My name is Flávio, I am a student at ETEC de Cidade Tiradentes. 🌱
 
@@ -25,9 +25,10 @@
   <li>PHP</li>
 </ul>
 
-<h3>Would you want find me?</h3>
+<h3>Would you like want to find me?</h3>
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=Flavleo_&style=social&url=https%3A%2F%2Ftwitter.com%2FFlavleo_)
+[![Gmail Badge](https://img.shields.io/badge/-flaviovhtorres@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flaviovhtorres@gmail.com)](mailto:flaviovhtorres@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fl%C3%A1vio-henrique-torres-246a151a4/)](https://www.linkedin.com/in/fl%C3%A1vio-henrique-torres-246a151a4/)
 
 <!--
