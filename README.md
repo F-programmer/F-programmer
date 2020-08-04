@@ -1,6 +1,7 @@
 <h3>Hello World! :sunny:</h3>
 
 #### My name is Flávio, I am a student at ETEC de Cidade Tiradentes. 🌱
+##### I am from São Paulo, Brazil
 
 <h6>My favorite hobbies are: </h6>
 <ul>
@@ -9,6 +10,7 @@
   <li>Listen to good songs :notes:</li>
   <li>Play videogame :video_game:</li>
   <li>Cook :cake:</li>
+  <li>Cultivate plants :herb:</li>
   <li>And program :computer:</li>
 </ul>
 <br>
@@ -26,7 +28,7 @@
   <li>:elephant: PHP</li>
 </ul>
 
-<h2>I am a Fullstack Developer :smiley:</h2>
+<h4>I am a Fullstack Developer :smiley:</h4>
 
 <h3>Would you like want to find me?</h3>
 
