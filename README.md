@@ -26,7 +26,9 @@
 </ul>
 
 <center>
-  <img src="https://img.shields.io/twitter/follow/Flavleo_?label=Me%20siga%20no%20Twitter&style=social" alt="Twitter">
+  <a href="https://twitter.com/Flavleo_">
+    <img src="https://img.shields.io/twitter/follow/Flavleo_?label=Me%20siga%20no%20Twitter&style=social" alt="Twitter">
+  </a>
 </center>
 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:flaviovhtorres@gmail.com)
