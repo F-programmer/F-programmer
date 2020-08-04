@@ -29,9 +29,10 @@
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-henrique-torres-246a151a4/"><img src="https://img.shields.io/badge/Linkedin-Fl%C3%A1vio%20Henrique-%232581E8" alt="Linkedin"></a>
   <a href=""><img src="" alt="Linkedin"></a>
   <a href=""><img src="" alt="Linkedin"></a>
-  [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
-
 </center>
+
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+
 
 <!--
 **F-programmer/F-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
