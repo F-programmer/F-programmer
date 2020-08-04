@@ -27,11 +27,12 @@
 
 <center>
   <a href="https://twitter.com/Flavleo_">
-    <img src="https://img.shields.io/twitter/follow/Flavleo_?label=Me%20siga%20no%20Twitter&style=social" alt="Twitter">
+    <img src="https://img.shields.io/twitter/url?label=Flavleo_&style=social&url=https%3A%2F%2Ftwitter.com%2FFlavleo_" alt="Twitter">
   </a>
 </center>
 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:flaviovhtorres@gmail.com)
+![](https://img.shields.io/twitter/url?label=Flavleo_&style=social&url=https%3A%2F%2Ftwitter.com%2FFlavleo_)
 
 
 <!--
