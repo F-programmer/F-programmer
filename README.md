@@ -1,6 +1,6 @@
 <h3 style='color: green'>Hello World! </h3>
 
-#### My name is Flávio, I am a student at ETEC de Cidade Tiradentes.
+#### My name is Flávio, I am a student at ETEC de Cidade Tiradentes. 🌱
 
 <h6>My favorite hobbies are: </h6>
 <ul>
@@ -25,7 +25,9 @@
   <li>PHP</li>
 </ul>
 
-<a href="">teste</a>
+<center>
+  <img src="https://img.shields.io/badge/Linkedin-Fl%C3%A1vio%20Henrique-%23777777">
+</center>
 
 <!--
 **F-programmer/F-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
