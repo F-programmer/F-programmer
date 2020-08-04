@@ -3,7 +3,7 @@
 #### My name is Flávio, I am a student at ETEC de Cidade Tiradentes. 🌱
 ##### I am from São Paulo, Brazil
 
-<h6>My favorite hobbies are: </h6>
+<h4>My favorite hobbies are: </h4>
 <ul>
   <li>Read a book :green_book:</li>
   <li>Drink coffee :coffee:</li>
@@ -29,6 +29,9 @@
 </ul>
 
 <h4>I am a Fullstack Developer :smiley:</h4>
+
+<br>
+<br>
 
 <h3>Would you like want to find me?</h3>
 
