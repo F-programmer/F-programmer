@@ -26,6 +26,7 @@
 </ul>
 
 <h3>Quer me encontrar?</h3>
+
 ![Twitter URL](https://img.shields.io/twitter/url?label=Flavleo_&style=social&url=https%3A%2F%2Ftwitter.com%2FFlavleo_)
 
 <!--
