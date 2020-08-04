@@ -11,7 +11,20 @@
   <li>And program :computer:</li>
 </ul>
 
-<h6><strong>Technologies that I know</strong></h6>
+<h4><strong>Technologies that I know</strong></h4>
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>JQuery</li>
+  <li>Nodejs</li>
+  <li>React</li>
+  <li>Java</li>
+  <li>PHP</li>
+</ul>
+
+
 
 <!--
 **F-programmer/F-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
